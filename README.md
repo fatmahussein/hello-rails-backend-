@@ -109,11 +109,10 @@ it will install the required gemfile for running the project
 to use this project:
 
 ```bash
-   npm run build
-   bin/rails server
+    rails server -p 3001
 ```
 
-it will run the the server on ```localhost:3000```
+it will run the the server on ```localhost:3001```
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -124,6 +123,8 @@ it will run the the server on ```localhost:3000```
 👤 **Fatuma Hussein**
 
 - GitHub: [@fatmahussein](https://github.com/fatmahussein)
+- Twitter: [@FatmaHussein200](https://twitter.com/@FatmaHussein200)
+- LinkedIn: [FatumaHussein](https://www.linkedin.com/in/fatuma-hussein-48149917b)
 
 
 
